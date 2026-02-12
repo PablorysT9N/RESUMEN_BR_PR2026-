@@ -1,4 +1,4 @@
-/* #*/ export const PERSON = `
+w/* #*/ export const PERSON = `
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
@@ -84,12 +84,10 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: pablorys94@email.com
+  phone: 11 9920 1419
+  street: Rua da Independencia
+  city: Sao Paulo
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+lang: pt-br
 `
